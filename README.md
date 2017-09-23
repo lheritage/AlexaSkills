@@ -1,2 +1,2 @@
-# PrivacyPolicy
-Privacy Policy
+# See the Wiki
+https://github.com/lheritage/AlexaSkills/wiki
